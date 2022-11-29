@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/star-berry/analytics/ab-test-notes/firebase-ab-tests/","tags":"gardenEntry"}
+{"dg-home":true,"dg-publish":true,"permalink":"/star-berry/analytics/ab-test-notes/firebase-ab-tests/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 
