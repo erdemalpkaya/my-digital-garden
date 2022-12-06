@@ -183,6 +183,8 @@ Variants:
 Notes: 
 
 We do not have new users after [11-Oct-2022](11-Oct-2022.md) . We can check the results with existent users.
+___
+ ----
 ### <mark style="background: #BBFABBA6;">AT4 - Starter Pack Pricing</mark>  🆗  ▶️ 
 
 | Name                                                | userProperty.key | Firabase AB Name | Start Time                 | End Time | Update |
@@ -336,6 +338,9 @@ Notes:
 ---
 
 ---
+---
+
+----
 ### SB1 - Daily City Reward - 21/10/2022
 
 
@@ -459,7 +464,7 @@ Variants:
 
 Notes: 
 
-### <mark class="hltr-grey">SB1 - Golden Bubble  - 20/10/2022</mark>  
+### <mark class="hltr-red">SB1 - Golden Bubble  - 20/10/2022</mark>  🚫 
 
 Golden bubble for high value RV or gems (All Users)
 
@@ -484,6 +489,11 @@ Variants:
 Notes: 
 
 ---
+---
+
+----
+
+---
 ### SB2 - More expensive energy - 02/11/2022  
 
 Energy refill costs 1.5 time more
@@ -504,6 +514,86 @@ Energy refill costs 1.5 time more
 Variants:
 1. ==Baseline==
 2. ==Energy Refill 1.5x==
+
+
+Notes: 
+
+___
+
+---
+
+---
+### SB3 - Golden Bubble v2 - 29/11/2022  
+
+Golden bubble for high value RV or gems Version 2
+
+| Name                                        | userProperty.key | Firabase AB Name | Start Time                 | End Time | Update |
+| ------------------------------------------- | ---------------- | ---------------- | -------------------------- | -------- | ------ |
+| SB3 - Golden Bubble v2 (droid)              | firebase_exp_98  | abtest_98        |[29-Nov-2022](29-Nov-2022)  | -            |          |
+| SB3 - Golden Bubble v2 (iOS)                | firebase_exp_97  | abtest_97        | [29-Nov-2022](29-Nov-2022) | -            |          |
+
+| Primary Goal     | Secondary Goals       |
+| ---------------- | --------------------- |
+| Purchase revenue | Retention (4–7 days)  |
+|                  | Retention (1 days)    |
+|                  | Retention (8-14 days) |
+|                  | Estimated ad revenue  |
+|                  | Estimated total revenue                    |
+
+
+Variants:
+1. ==Baseline==
+2. ==Only Gems==
+3. ==Only RV==
+
+
+Notes: 
+
+### SB3 - New Core Generator - 29/11/2022  
+
+new balance for all core generators
+
+| Name                                        | userProperty.key | Firabase AB Name | Start Time                 | End Time | Update |
+| ------------------------------------------- | ---------------- | ---------------- | -------------------------- | -------- | ------ |
+| SB3 - New Core Generator (droid)                            | firebase_exp_96  | abtest_96        |[29-Nov-2022](29-Nov-2022) | -        |       |
+| SB3 - New Core Generator (iOS)   | firebase_exp_95  | abtest_95        | [29-Nov-2022](29-Nov-2022) | -        |    |
+
+| Primary Goal     | Secondary Goals       |
+| ---------------- | --------------------- |
+| Estimated total revenue| Retention (4–7 days)  |
+|                  | Retention (1 days)    |
+|                  | Purchase revenue   |
+
+
+Variants:
+1. ==Baseline==
+2. ==new generator balance==
+
+
+Notes: 
+
+---
+
+
+### SB - Jelly No Vendor December 15 - 06/12/2022  
+
+Variant will run without a Jelly Bowl Vendor.
+
+| Name                                        | userProperty.key | Firabase AB Name | Start Time                 | End Time | Update |
+| ------------------------------------------- | ---------------- | ---------------- | -------------------------- | -------- | ------ |
+| SB - Jelly No Vendor December 15th (andr)   | firebase_exp_92  | abtest_92        |[06-Dec-2022](06-Dec-2022) | -        |       |
+| SB - Jelly No Vendor December 15th (iOS)   | firebase_exp_91  | abtest_91        | [06-Dec-2022](06-Dec-2022) | -        |    |
+
+| Primary Goal     | Secondary Goals       |
+| ---------------- | --------------------- |
+| Purchase revenue | Retention (4–7 days)  |
+|                  | Retention (1 days)    |
+|                  | Crash-free users   |
+
+
+Variants:
+1. ==Baseline==
+2. ==No Vendor==
 
 
 Notes: 
